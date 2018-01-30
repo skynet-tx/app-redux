@@ -1,10 +1,7 @@
 /**
  * Created by skynetsaa on 30.01.18.
  */
-const initialState = [
-	'Smells like spirit',
-	'Mutter'
-];
+const initialState = [];
 
 export default function playlists(state = initialState, action) {
 	if (action.type === 'ADD_TRACK') {
