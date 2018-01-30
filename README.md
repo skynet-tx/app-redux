@@ -4,3 +4,6 @@ Simple application. (only to learn how to build it)
 
 How to run: npm-install
 npm-start
+
+chrome Redux DevTools:
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
